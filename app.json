@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "movie-browser",
+    "slug": "movie-browser",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
